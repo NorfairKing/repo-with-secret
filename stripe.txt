@@ -1,0 +1,5 @@
+public test key: pk_test_INJaTabcIlPAbo6E9EclFMY8
+secret test key: sk_test_INabcoavIlPAbo6E9EclFMY8
+public test key: pk_live_INJaToavIabcbo6E9EclFMY8
+secret test key: sk_live_INJaToavIlPAbabc9EclFMY8
+
